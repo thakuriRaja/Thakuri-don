@@ -1,2 +1,1 @@
-# Thakuri-don
-All use cmd
+# Thakuri-don 
